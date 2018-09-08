@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dennis dennis@dezka.com
 
 # THANKS
 
