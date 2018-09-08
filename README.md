@@ -24,4 +24,4 @@ Fork!
 
 ### Copyright
 
-Dezka 2018
+Dezka 2018. All rights reserved.
