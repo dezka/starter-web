@@ -18,6 +18,8 @@ test
 
 ## How to contribute
 
+Fork!
+
 ### Copyright
 
 Dezka 2018
