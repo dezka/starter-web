@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 test
 
 ## How to contribute
+
+### Copyright
+
+Dezka 2018
